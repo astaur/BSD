@@ -1,0 +1,11 @@
+Model Information:
+* title:	mic stand texture for both characters
+* source:	https://sketchfab.com/3d-models/mic-stand-texture-for-both-characters-c1b2d618c637446886d8c91778a7e6d5
+* author:	shaylastewart (https://sketchfab.com/shaylastewart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "mic stand texture for both characters" (https://sketchfab.com/3d-models/mic-stand-texture-for-both-characters-c1b2d618c637446886d8c91778a7e6d5) by shaylastewart (https://sketchfab.com/shaylastewart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
