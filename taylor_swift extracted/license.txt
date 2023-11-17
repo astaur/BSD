@@ -1,0 +1,11 @@
+Model Information:
+* title:	Taylor Swift
+* source:	https://sketchfab.com/3d-models/taylor-swift-c95f9dc1ff814ebb8ca48c9c77386f92
+* author:	David Wigforss (https://sketchfab.com/dwigfor)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Taylor Swift" (https://sketchfab.com/3d-models/taylor-swift-c95f9dc1ff814ebb8ca48c9c77386f92) by David Wigforss (https://sketchfab.com/dwigfor) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
